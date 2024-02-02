@@ -1,0 +1,18 @@
+.cart-page {
+  margin-top: 64px;
+}
+
+.cart-page h1 {
+  padding: 15px !important;
+  font-family: "roboto", sans-serif;
+  font-weight: normal;
+  background-color: rgba(0, 0, 255, 0.072) !important;
+}
+
+.cart-page .cart-summary {
+  text-align: center;
+  /* margin-top: -140px !important; */
+}
+
+@media screen and (min-width: 480px) {
+}
